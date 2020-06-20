@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee771e45-8433-4d81-9037-05af94a22f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/asdf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game1.py" afterDir="false" />
+    <list default="true" id="ee771e45-8433-4d81-9037-05af94a22f7a" name="Default Changelist" comment="initalize">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,8 +183,16 @@
       <workItem from="1591956056958" duration="29000" />
       <workItem from="1592060610943" duration="4212000" />
       <workItem from="1592565715910" duration="889000" />
-      <workItem from="1592665379804" duration="324000" />
+      <workItem from="1592665379804" duration="706000" />
     </task>
+    <task id="LOCAL-00001" summary="initalize">
+      <created>1592665924040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592665924040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +208,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initalize" />
+    <option name="LAST_COMMIT_MESSAGE" value="initalize" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1592665634873">
